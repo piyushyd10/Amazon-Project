@@ -1,26 +1,21 @@
-Amazon Clone
+Amazon UI Clone
 
-This repository contains the source code for an Amazon clone web application built using HTML, CSS, and JavaScript. The project replicates core e-commerce functionalities, providing users with a seamless shopping experience similar to that of Amazon. Features
+A frontend clone of the Amazon website built using HTML, CSS, and JavaScript. This project replicates the look and feel of Amazon's user interface with functionalities such as product listings, cart management, and responsive design.
 
-Dynamic Product Home Page
-    Displays a variety of product categories
-    Responsive design for an optimal user experience across different devices
+Features
 
-Interactive Shopping Cart
-    Allows users to add, remove, and update product quantities
-    Real-time updates to total cost and tax calculations
+1.Homepage: Displays a variety of products with images, prices, and descriptions.
 
-Shipping Options
-    Multiple shipping choices with corresponding cost adjustments
-    Integrated into the checkout process for user convenience
+2.Product Listing: Users can browse different products with details.
 
-Order Placement System
-    Generates and records orders based on the products in the cart upon user confirmation
-    Simulates data persistence for a realistic shopping experience
+3.Cart System: Users can add/remove items from the shopping cart.
 
-Technologies Used
+4.Responsive Design: Fully optimized for mobile and desktop screens.
 
-HTML5: For structuring the web pages
-CSS3: For styling and responsive design
-JavaScript: For dynamic interactions and functionality
+Tech Stack
 
+Frontend: HTML, CSS, JavaScript
+
+Styling: CSS Flexbox & Grid
+
+Interactivity: JavaScript (DOM Manipulation, Event Listeners)
